@@ -16,6 +16,7 @@ I do like baking and obviously have a sweettooth
 📫 Contact me by:
 
 Email: liuziyu99@gmail.com
+LinkedIn: https://www.linkedin.com/in/ziyu-liu-143807a2/
 
 <!--
 **Yuriliu0909/Yuriliu0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.:cake:
