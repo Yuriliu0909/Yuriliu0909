@@ -5,18 +5,18 @@ I am a Master student of software development at Victoria University of Wellingt
 
 🌱 I’m currently learning at Victoria University of Wellington,hopefully could graduate on JULY,2022
 
-⚡ Fun fact:
-
 I love to share what I've learned and thought in Github and blog
 
 I used to work at a financial Internet company as a customer consultant
+
+⚡ Fun fact:
 
 I do like baking and obviously have a sweettooth
 
 📫 Contact me by:
 
 Email: liuziyu99@gmail.com
-LinkedIn: https://www.linkedin.com/in/ziyu-liu-143807a2/
+LinkedIn: https://www.linkedin.com/in/yuriliu0909/
 
 <!--
 **Yuriliu0909/Yuriliu0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.:cake:
