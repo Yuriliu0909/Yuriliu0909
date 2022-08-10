@@ -1,9 +1,7 @@
 ### Hi there,I'm Ziyu Liu,can be called by Yuri! 👋
-I am a Master student of software development at Victoria University of Wellington, New Zealand. Also I am a certificated baker.:cake:
+I am a full-stack software developer in Wellington, New Zealand. Also I am a certificated baker.:cake:
 
-🔭 I’m currently working on some apps and webisites development especially financial mobile application 
-
-🌱 I’m currently learning at Victoria University of Wellington,hopefully could graduate on JULY,2022
+🔭 I’m currently working on some RPA projects and webisites development
 
 I love to share what I've learned and thought in Github and blog
 
